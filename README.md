@@ -42,4 +42,5 @@ I love coding. I have always loved it, even before knowing what it was. My child
 I see video games as works of art, capable of sparking emotions and inspiration within those who play. And like any form of art, you can look at all the pieces individually to find out why it’s so engaging and memorable. For games, the pieces are gameplay, visuals, and music. My biggest focus is on the gameplay. I aim to make games fun and responsive, finely tuning the code to ensure it doesn’t feel frustrating to do even the simplest things.
 
 ## Contact
-<b>Email: iriveradaniel30@gmail.com<b/>
+<b>Email: iriveradaniel30@gmail.com</b><br />
+<b>GitHub Page: [Portfolio Website](https://dirivera127843.github.io/)</b>
